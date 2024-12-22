@@ -1,4 +1,4 @@
-![best-selling](https://github.com/user-attachments/assets/eb6428cd-448b-4328-88a0-e49d16afb740)# Sprints Task 3
+# Sprints Task 3
 
 Welcome to **Sprints Task 3**, a Flutter project designed to showcase a simple yet elegant grocery shopping app. This project demonstrates the use of various Flutter widgets and packages to create a visually appealing and functional user interface.
 
@@ -44,4 +44,4 @@ To get started with this project, follow these steps:
 
 | Output                    | Best Selling              | Hot Offers                | Adding to Cart            |
 | ------------------------- | ------------------------- | ------------------------- | ------------------------- |
-| <img src="https://github.com/user-attachments/assets/a7156071-b163-4250-9ca5-edb55a2c5884" width="500"/> | <img src="https://github.com/user-attachments/assets/48387ec0-3e70-4fe9-99b8-32cce7ea279d" width="500"/> | <img src="https://github.com/user-attachments/assets/ffbf70ba-3791-4b9d-b7f5-d96699052bd7" width="200"/> | <img src="https://github.com/user-attachments/assets/e6addc07-1ceb-4b2d-b9c5-92a5288a0cf3" width="200"/> |
+| <img src="https://github.com/user-attachments/assets/a7156071-b163-4250-9ca5-edb55a2c5884" width="500"/> | <img src="https://github.com/user-attachments/assets/48387ec0-3e70-4fe9-99b8-32cce7ea279d" width="200"/> | <img src="https://github.com/user-attachments/assets/ffbf70ba-3791-4b9d-b7f5-d96699052bd7" width="200"/> | <img src="https://github.com/user-attachments/assets/e6addc07-1ceb-4b2d-b9c5-92a5288a0cf3" width="200"/> |
